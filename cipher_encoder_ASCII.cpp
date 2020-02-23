@@ -31,7 +31,7 @@ int main()
             }
             else{cout<<char(x+y+64);}
         }
-
+        
 
 
     }
